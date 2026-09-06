@@ -13,7 +13,7 @@ A public web page with six sections:
 
 | Section | What goes there |
 |---|---|
-| Home | Ana Maria orjuela, I am a Systems Engineering student. I am interested in web development and technology. I enjoy learning new skills. |
+| Home | Ana Maria orjuela, I am a Systems Engineering student. I am interested in web development and technology. I enjoy learning new skills.|
 | About | Two or three sentences about you |
 | Skills | Your technical and professional skills |
 | Resume | Your education and your experience |
