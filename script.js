@@ -27,7 +27,7 @@ const ES = {
   "hero.role": "Desarrollador Web · Soporte Técnico",
 
   "about.title":          "Sobre Mí",
-  "about.text":           "[Escribe aquí dos o tres frases sobre ti: qué estudias, qué te interesa dentro del desarrollo web y qué estás buscando ahora.]",
+  "about.text":           "[I am a Systems Engineering student currently in my fourth semester, focusing on web programming. I am interested in learning new technological tools that will allow me to strengthen my knowledge. I enjoy taking on new challenges, continuing to learn, and preparing myself for both academic and professional growth.]",
   "about.infoTitle":      "Información",
   "about.labelLocation":  "Ubicación",
   "about.valueLocation":  "Tolima, Colombia",
