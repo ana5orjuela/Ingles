@@ -27,7 +27,7 @@ const ES = {
   "hero.role": "Desarrollador Web · Soporte Técnico",
 
   "about.title":          "Sobre Mí",
-  "about.text":           "[I am a Systems Engineering student currently in my fourth semester, focusing on web programming. I am interested in learning new technological tools that will allow me to strengthen my knowledge. I enjoy taking on new challenges, continuing to learn, and preparing myself for both academic and professional growth.]",
+  "about.text":           "Soy estudiante de Ingeniería de Sistemas y actualmente curso el cuarto semestre de programación web. Me interesa aprender nuevas herramientas tecnológicas que me permitan fortalecer mis conocimientos. Me gusta asumir nuevos retos, seguir aprendiendo y prepararme para crecer tanto académica como profesionalmente.",
   "about.infoTitle":      "Información",
   "about.labelLocation":  "Ubicación",
   "about.valueLocation":  "Tolima, Colombia",
@@ -101,7 +101,7 @@ const EN = {
   "hero.role": "Web Developer · Technical Support",
 
   "about.title":          "About Me",
-  "about.text":           "[Write two or three sentences about yourself: what you study, what interests you in web development, and what you are looking for now.]",
+  "about.text":           "I am a Systems Engineering student currently in my fourth semester, focusing on web programming. I am interested in learning new technological tools that will allow me to strengthen my knowledge. I enjoy taking on new challenges, continuing to learn, and preparing myself for both academic and professional growth.",
   "about.infoTitle":      "Information",
   "about.labelLocation":  "Location",
   "about.valueLocation":  "tolima , Colombia",
