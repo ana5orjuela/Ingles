@@ -31,7 +31,7 @@ const ES = {
   "about.infoTitle":      "Información",
   "about.labelLocation":  "Ubicación",
   "about.valueLocation":  "Tolima, Colombia",
-  "about.labelEmail":     " serranoana05122007@gmail.com",
+  "about.labelEmail":     " Correo ",
   "about.labelLanguages": "Idiomas",
   "about.valueLanguages": "Español (nativo) · Inglés ([tu nivel])",
   "about.labelStatus":    "Disponibilidad",
