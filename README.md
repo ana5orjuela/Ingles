@@ -15,7 +15,7 @@ A public web page with six sections:
 |---|---|
 | Home | Ana Maria Orjuela, I am a Systems Engineering student. I am interested in web development and technology. I enjoy learning new skills.|
 | About | I enjoy learning new things and discovering everything I can achieve during my career. I am a calm, responsible person with goals for the future.
-| Skills | Your technical and professional skills |
+| Skills | HTML y CSS para crear páginas web, JavaScript para darles funcionalidad, Java y PHP para desarrollar aplicaciones y SQL para manejar bases de datos.|
 | Resume | Your education and your experience |
 | Projects | The projects you have built |
 | Contact | How people can reach you |
