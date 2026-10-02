@@ -123,7 +123,7 @@ const EN = {
   "skill.teamwork":      "Teamwork",
   "skill.problem":       "Problem solving",
   "skill.learning":      "Continuous learning",
-  "skill.responsibility":"Responsibility"
+  "skill.responsibility": "Responsibility"
 
   "resume.title":      "Education and experience",
   "resume.education":  "Education",
