@@ -49,7 +49,7 @@ const ES = {
   "skill.teamwork": "Trabajo en equipo",
   "skill.problem": "Resolución de problemas",
   "skill.learning": "Aprendizaje continuo",
-  "skill.responsibility": "Responsabilidad"
+  "skill.responsibility": "Responsabilidad",
 
   "resume.title":      "Formación y experiencia",
   "resume.education":  "Formación",
@@ -123,7 +123,7 @@ const EN = {
   "skill.teamwork":      "Teamwork",
   "skill.problem":       "Problem solving",
   "skill.learning":      "Continuous learning",
-  "skill.responsibility": "Responsibility"
+  "skill.responsibility": "Responsibility",
 
   "resume.title":      "Education and experience",
   "resume.education":  "Education",
