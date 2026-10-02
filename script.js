@@ -46,10 +46,10 @@ const ES = {
   "skills.title":        "Habilidades",
   "skills.technical":    "Habilidades técnicas",
   "skills.professional": "Habilidades profesionales",
-  "skill.support":       "Soporte al usuario",
-  "skill.teamwork":      "Trabajo en equipo",
-  "skill.problem":       "Resolución de problemas",
-  "skill.english":       "Inglés técnico",
+  "skill.teamwork": "Trabajo en equipo",
+  "skill.problem": "Resolución de problemas",
+  "skill.learning": "Aprendizaje continuo",
+  "skill.responsibility": "Responsabilidad"
 
   "resume.title":      "Formación y experiencia",
   "resume.education":  "Formación",
@@ -120,10 +120,10 @@ const EN = {
   "skills.title":        "Skills",
   "skills.technical":    "Technical skills",
   "skills.professional": "Professional skills",
-  "skill.support":       "User support",
   "skill.teamwork":      "Teamwork",
   "skill.problem":       "Problem solving",
-  "skill.english":       "Technical English",
+  "skill.learning":      "Continuous learning",
+  "skill.responsibility":"Responsibility"
 
   "resume.title":      "Education and experience",
   "resume.education":  "Education",
