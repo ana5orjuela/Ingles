@@ -110,7 +110,7 @@ a { color: inherit; }
   transition: background-color .3s;
 }
 
-.btn-idioma:hover { background-color: rgba(28, 182, 152, .15); }
+.btn-idioma:hover { background-color: rgba(155, 89, 182, .15); }
 .btn-idioma .idioma-activo   { color: var(--color-acento); }
 .btn-idioma .idioma-inactivo { color: var(--color-texto-suave); }
 .btn-idioma .idioma-sep      { margin: 0 4px; color: var(--color-texto-suave); }
@@ -507,7 +507,7 @@ footer .arriba {
   .sobremi h2, .skills h2, .curriculum h2,
   .portfolio h2, .contacto h2 { font-size: 32px; }
 
-  .proyecto .overlay { opacity: 1; background: rgba(28,182,152,.75); }
+ .proyecto .overlay { opacity: 1; background: rgba(155,89,182,.75); }
 }
 
 /* ---------- ACCESSIBILITY ---------- */
