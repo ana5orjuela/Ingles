@@ -130,7 +130,7 @@ const EN = {
   "resume.experience": "Experience",
 
   "edu.1.title": "Professional Technician in Web Programming",
-  "edu.1.text":  "raining in web development, programming, databases, and web application design.",
+  "edu.1.text":  "training in web development, programming, databases, and web application design.",
   "edu.2.title": "Academic High School Diploma",
   "edu.2.text":  "Secondary education.",
 
