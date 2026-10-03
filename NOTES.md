@@ -31,7 +31,7 @@ This file is where you show that you understood those differences.
 Name **one thing** that appears in your Spanish version and does **not** appear
 in your English version. Explain why you removed it.
 
-> [Write 2–4 sentences in English.]
+> I left out personal information such as my address and phone number from the English version. I removed this information because an English professional profile usually focuses on education, skills, experience, and projects. It also helps protect my personal information.
 
 ---
 
@@ -40,7 +40,7 @@ in your English version. Explain why you removed it.
 Name **one technical term** that you kept in English in both versions.
 Explain why translating it would be a bad idea.
 
-> [Write 2–4 sentences in English.]
+> I kept technical words like HTML, CSS, JavaScript, Java, PHP, and SQL in English. These words are used in programming and web development. I did not translate them because they are commonly used in English.
 
 ---
 
@@ -50,11 +50,11 @@ Name **one sentence** that was hard to write in English. Copy the Spanish
 version and your English version. Explain what you changed and why a
 word-by-word translation did not work.
 
-> Spanish: [copy your sentence here]
+> Spanish:  Soy estudiante de Ingeniería de Sistemas y actualmente curso el cuarto semestre de programación web.
+> 
+> English: I am a Systems Engineering student currently in my fourth semester of web programming.
 >
-> English: [copy your sentence here]
->
-> [Write 2–4 sentences in English explaining the change.]
+> This sentence was difficult because a direct translation did not sound natural in English. I changed the order of some words to make the sentence clearer. The English version is easier to understand.
 
 ---
 
@@ -64,10 +64,8 @@ You may use dictionaries, translators and AI tools. But you must say so here.
 
 **Which tools did you use, and for what?**
 
-> [Write your answer in English. Be specific. For example: "I used
-> Cambridge Dictionary to check the difference between *develop* and
-> *design*." Or: "I used a translator for a first version of the About
-> section, and then I rewrote it because it sounded too formal."]
+> I used ChatGPT to help me translate my profile from Spanish to English. I also used it to check grammar and some technical words. Then, I reviewed the text and made some changes.
+
 
 ---
 
